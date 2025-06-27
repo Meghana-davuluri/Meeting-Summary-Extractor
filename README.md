@@ -1,6 +1,6 @@
-#Meeting Summary Extractor
+# Meeting Summary Extractor
 
-#Overview:
+# Overview:
 Transcribe Zoom/MP4 meeting recordings into clean, concise bullet-point summaries with action items — using Whisper + GPT.
 Built as a modular project with a real-world goal: **"No one revisits meeting recordings — this tool makes them instantly useful."**
 
