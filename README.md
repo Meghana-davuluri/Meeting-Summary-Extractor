@@ -4,7 +4,7 @@
 Transcribe Zoom/MP4 meeting recordings into clean, concise bullet-point summaries with action items — using Whisper + GPT.
 Built as a modular project with a real-world goal: **"No one revisits meeting recordings — this tool makes them instantly useful."**
 
-## 🧠 Day 1: Audio Transcription (Whisper)
+## Day 1: Audio Transcription (Whisper)
 
 - 🎯 Goal: Convert meeting recordings into raw text
 - ✅ Implemented using OpenAI Whisper (local)
@@ -16,7 +16,7 @@ Built as a modular project with a real-world goal: **"No one revisits meeting re
 - `whisper`
 - `ffmpeg` (for audio extraction if needed)
 
-## 💡 Day 2: LLM Summarization
+## Day 2: LLM Summarization
 
 - 🎯 Goal: Take the transcript and return:
   - Bullet-point summary
