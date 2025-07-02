@@ -1,3 +1,4 @@
 .env
 __pycache__/
 temp_input.mp4
+.streamlit/secrets.toml
